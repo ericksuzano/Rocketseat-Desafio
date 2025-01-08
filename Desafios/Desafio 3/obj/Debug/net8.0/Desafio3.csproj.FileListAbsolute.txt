@@ -1,0 +1,14 @@
+D:\Projetos C#\Desafios\Desafio 3\bin\Debug\net8.0\Desafio3.exe
+D:\Projetos C#\Desafios\Desafio 3\bin\Debug\net8.0\Desafio3.deps.json
+D:\Projetos C#\Desafios\Desafio 3\bin\Debug\net8.0\Desafio3.runtimeconfig.json
+D:\Projetos C#\Desafios\Desafio 3\bin\Debug\net8.0\Desafio3.dll
+D:\Projetos C#\Desafios\Desafio 3\bin\Debug\net8.0\Desafio3.pdb
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.AssemblyInfoInputs.cache
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.AssemblyInfo.cs
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.dll
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\refint\Desafio3.dll
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.pdb
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\Desafio3.genruntimeconfig.cache
+D:\Projetos C#\Desafios\Desafio 3\obj\Debug\net8.0\ref\Desafio3.dll

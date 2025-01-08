@@ -1,0 +1,4 @@
+D:\Projetos C#\Desafios\Desafios\obj\Debug\net8.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Desafios\Desafios\obj\Debug\net8.0\Desafios.AssemblyInfoInputs.cache
+D:\Projetos C#\Desafios\Desafios\obj\Debug\net8.0\Desafios.AssemblyInfo.cs
+D:\Projetos C#\Desafios\Desafios\obj\Debug\net8.0\Desafios.csproj.CoreCompileInputs.cache
